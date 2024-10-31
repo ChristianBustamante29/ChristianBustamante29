@@ -14,5 +14,4 @@ Soy una persona altamente motivada, compremetida con la mejora continua y el cre
 ## Estadísticas del repositorio
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianBustamante29&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianBustamante29&layout=compact&theme=dark)
